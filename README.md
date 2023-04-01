@@ -10,5 +10,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking to help community and tech peoples.
 - 💬 Talk me about traning neural network and distributed system.
 - 📫 How to reach me: ...
+
 📝  [LinkedIn](https://www.linkedin.com/in/ankur-tripathi-a579aa142/) 
+
 📂  [Github](https://github.com/a9k00r/)
