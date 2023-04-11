@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm an inovative Senior Backend Engineer worked in a multiple hight growth tech companies. I have strong experience in distributed system and building microservices on scale.
+I'm an inovative Senior Backend Engineer worked in a multiple high growth tech companies. I have strong experience in distributed system and building microservices on scale.
 
 
 - 🔭 I’m currently working on Checkout, Payment and inventories flow
