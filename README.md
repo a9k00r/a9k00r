@@ -1,15 +1,12 @@
-### Hi there 👋
+### Hi there! 👋
 
+I'm an innovative Senior Backend Engineer with extensive experience in high-growth tech companies. I specialize in distributed systems and building scalable microservices.
 
-I'm an innovative Senior Backend Engineer who worked in multiple high-growth tech companies. I have strong experience in distributed systems and building microservices at scale.
-
-
-- 🔭 I’m currently working on Checkout, Payment, and inventory flow
-- 🌱 I’m currently learning designing machine learning systems and microservice on scale.
-- 👯 I’m looking for a great computer scientist role if any which teaches me something great.
-- 🤔 I’m looking to help community and tech people.
-- 💬 Talk to me about training neural networks and distributed system.
-- 📫 How to reach me: ...
+🔭 I have worked with checkout, payment, and inventory systems, currently working on Fulfillment system.
+👯 I'm seeking a challenging computer science role where I can learn and grow.
+🤔 I'm passionate about helping the community and supporting fellow tech enthusiasts.
+💬 Let's chat about training neural networks and distributed systems.
+📫 You can reach me at: ...
 
 📝  [LinkedIn](https://www.linkedin.com/in/ankur-tripathi-a579aa142/) 
 
